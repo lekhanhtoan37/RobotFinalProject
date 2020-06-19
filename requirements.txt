@@ -1,0 +1,9 @@
+ray 
+gym
+redis
+numpy
+tensorflow-probability
+tensorflow
+numpy
+box2d
+# pip install 'gym[all]'
